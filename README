@@ -1,0 +1,13 @@
+webapp to implement commonly used commands issued to the cisco switch
+show run
+show vlan
+show interfaces ...
+copy run start
+show tech
+config t
+description
+switchport access ...
+speed auto|10|100|1000
+shut
+no shut
+switchport trunk
